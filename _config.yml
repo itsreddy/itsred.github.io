@@ -36,7 +36,7 @@ roles:
    start: May 2018
    end: May 2019
    employer: Center for Innovation, L. V. Prasad Eye Institute
-   description: Generative Adversarial Image Generation: Research and development of models to generate a large dataset of images with high diversity (e.g., in subjects, head pose, camera settings) and realism, while still maintaining granular control over the above attributes using Deep Convolutional GANs. · Video based Gaze estimation of infants: Development of Convolutional Neural Network based machine learning models for predicting eye-gaze direction and development of approaches for 3D head pose estimation based on facial landmarks to determine yaw, roll and pitch from two dimensional images.
+   description: Generative Adversarial Image Generation: Research and development of models to generate a large dataset of images with high diversity (e.g., in subjects, head pose, camera settings) and realism, while still maintaining granular control over the above attributes using Deep Convolutional GANs. Video based Gaze estimation of infants: Development of Convolutional Neural Network based machine learning models for predicting eye-gaze direction and development of approaches for 3D head pose estimation based on facial landmarks to determine yaw, roll and pitch from two dimensional images.
 
 #    Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Teaching Assistant
@@ -49,7 +49,7 @@ roles:
    start: 2017
    end: 2017
    employer: Leoforce Inc.
-   description: Worked with production database performance analysis and optimization team using MySQL server and Workbench. · Monitored and proﬁled slow, unresponsive queries and stored procedures and improved their execution time so that the load on the server CPU is relieved and their application may become faster.
+   description: Worked with production database performance analysis and optimization team using MySQL server and Workbench. Monitored and proﬁled slow, unresponsive queries and stored procedures and improved their execution time so that the load on the server CPU is relieved and their application may become faster.
    
  - title: Summer Intern
    start: 2016
