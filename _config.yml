@@ -39,23 +39,23 @@ roles:
    description: "Generative Adversarial Image Generation: Research and development of models to generate a large dataset of images with high diversity (e.g., in subjects, head pose, camera settings) and realism, while still maintaining granular control over the above attributes using Deep Convolutional GANs. Video based Gaze estimation of infants: Development of Convolutional Neural Network based machine learning models for predicting eye-gaze direction and development of approaches for 3D head pose estimation based on facial landmarks to determine yaw, roll and pitch from two dimensional images."
 
 #    Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Teaching Assistant
-   start: Oct 2018
-   end: May 2019
-   employer: Department of CS, IIITDM
-   description: COM2017 Programming and Data Structures Lab (90 Undergraduate students) COM212 Database Systems Lab (95 Undergraduate students) COM510 Machine Learning (98 graduate and undergraduate students)
+#  - title: Teaching Assistant
+#    start: Oct 2018
+#    end: May 2019
+#    employer: Department of CS, IIITDM
+#    description: COM2017 Programming and Data Structures Lab (90 Undergraduate students) COM212 Database Systems Lab (95 Undergraduate students) COM510 Machine Learning (98 graduate and undergraduate students)
 
-- title: Summer Intern
-   start: 2017
-   end: 2017
-   employer: Leoforce Inc.
-   description: Worked with production database performance analysis and optimization team using MySQL server and Workbench. Monitored and proﬁled slow, unresponsive queries and stored procedures and improved their execution time so that the load on the server CPU is relieved and their application may become faster.
+# - title: Summer Intern
+#    start: 2017
+#    end: 2017
+#    employer: Leoforce Inc.
+#    description: Worked with production database performance analysis and optimization team using MySQL server and Workbench. Monitored and proﬁled slow, unresponsive queries and stored procedures and improved their execution time so that the load on the server CPU is relieved and their application may become faster.
    
- - title: Summer Intern
-   start: 2016
-   end: 2016
-   employer: OSI Systems Inc
-   description: Worked with AWK and Shell scripting languages with some understanding of VB Script for text processing.Developed eﬃcient algorithms for testing the baggage ﬂow control in airport security screening machine systems and achieved a signiﬁcant improvement in performance from before.
+#  - title: Summer Intern
+#    start: 2016
+#    end: 2016
+#    employer: OSI Systems Inc
+#    description: Worked with AWK and Shell scripting languages with some understanding of VB Script for text processing.Developed eﬃcient algorithms for testing the baggage ﬂow control in airport security screening machine systems and achieved a signiﬁcant improvement in performance from before.
 
 
 
