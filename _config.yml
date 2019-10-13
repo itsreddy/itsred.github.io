@@ -51,11 +51,11 @@ roles:
 #    employer: Leoforce Inc.
 #    description: Worked with production database performance analysis and optimization team using MySQL server and Workbench. Monitored and proﬁled slow, unresponsive queries and stored procedures and improved their execution time so that the load on the server CPU is relieved and their application may become faster.
    
-#  - title: Summer Intern
-#    start: 2016
-#    end: 2016
-#    employer: OSI Systems Inc
-#    description: Worked with AWK and Shell scripting languages with some understanding of VB Script for text processing.Developed eﬃcient algorithms for testing the baggage ﬂow control in airport security screening machine systems and achieved a signiﬁcant improvement in performance from before.
+  - title: Summer Intern
+    start: 2016
+    end: 2016
+    employer: OSI Systems Inc
+    description: Worked with AWK and Shell scripting languages with some understanding of VB Script for text processing.Developed eﬃcient algorithms for testing the baggage ﬂow control in airport security screening machine systems and achieved a signiﬁcant improvement in performance from before.
 
 
 
