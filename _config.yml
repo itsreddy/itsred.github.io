@@ -18,44 +18,58 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - Computer Vision
  - Machine learning
  - Deep Learning
- - Computer Vision
+ - TensorFlow
+ - pyTorch
+ - Data Analytics
  - Python
  - C++
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
+ - title: Machine Learning Intern/Research Fellow 
+   start: May 2018
+   end: May 2019
+   employer: Center for Innovation, L. V. Prasad Eye Institute
+   description: Generative Adversarial Image Generation: Research and development of models to generate a large dataset of images with high diversity (e.g., in subjects, head pose, camera settings) and realism, while still maintaining granular control over the above attributes using Deep Convolutional GANs. · Video based Gaze estimation of infants: Development of Convolutional Neural Network based machine learning models for predicting eye-gaze direction and development of approaches for 3D head pose estimation based on facial landmarks to determine yaw, roll and pitch from two dimensional images.
+
+#    Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+ - title: Teaching Assistant
+   start: Oct 2018
+   end: May 2019
+   employer: Department of CS, IIITDM
+   description: COM2017 Programming and Data Structures Lab (90 Undergraduate students) COM212 Database Systems Lab (95 Undergraduate students) COM510 Machine Learning (98 graduate and undergraduate students)
+
+- title: Summer Intern
    start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   employer: Leoforce Inc.
+   description: Worked with production database performance analysis and optimization team using MySQL server and Workbench. · Monitored and proﬁled slow, unresponsive queries and stored procedures and improved their execution time so that the load on the server CPU is relieved and their application may become faster.
+   
+ - title: Summer Intern
+   start: 2016
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: OSI Systems Inc
+   description: Worked with AWK and Shell scripting languages with some understanding of VB Script for text processing.Developed eﬃcient algorithms for testing the baggage ﬂow control in airport security screening machine systems and achieved a signiﬁcant improvement in performance from before.
+
+
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Science (M.S.)
+   date: 2021
+   subject: Computer Science, specializing in Artificial Intelligence
+   school: University of California, Davis
+ 
+ - level: B.Tech + M.Tech Dual Degree
+   date: 2019
+   subject: Computer Engineering, CGPA: 8.82/10
+   school: Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram 
 
 #This section is optional (as is the image link below)
 coursera:
